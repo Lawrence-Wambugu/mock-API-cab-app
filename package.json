@@ -2,9 +2,9 @@
     "name": "pick-and-go-backend",
     "version": "1.0.0",
     "main": "index.js",
-    "scripts": {
-      "start": "json-server --watch db.json --port 10000"
-    },
+  "scripts": {
+  "start": "node server.js"
+},
     "dependencies": {
       "json-server": "^0.17.3"
     }
